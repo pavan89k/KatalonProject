@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Jenkin -test" time="27" tests="1" failures="0" errors="0">
+   <testsuite name="Jenkin -test" tests="1" failures="0" errors="0" time="27" timestamp="2018-07-26 13:19:07" hostname="slk - WSLK1FFTRFW-15" id="Test Suites/Jenkin -test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-15.005\\Katalon Studio\\Demo_SLK\\Reports\\Jenkin -test\\20180726_131905"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-15.005\\Katalon Studio\\Demo_SLK\\Reports\\Jenkin -test\\20180726_131905\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-15"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Chrome 67.0.3396.99"/>
+         <property name="hostAddress" value="10.10.10.24"/>
+         <property name="sessionId" value="a9287423e548529244454be11f924d3b"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Day 3/Jenkins -Test" classname="Test Cases/Day 3/Jenkins -Test" status="PASSED">
+         <system-out><![CDATA[2018-07-26 13:19:07 - [TEST_CASE][PASSED] - Test Cases/Day 3/Jenkins -Test: Test Cases/Day 3/Jenkins -Test
+
+2018-07-26 13:19:07 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-26 13:19:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-26 13:19:31 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-26 13:19:31 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-26 13:19:31 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Jenkins/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-26 13:19:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Jenkins/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-26 13:19:32 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Jenkins/Page_CURA Healthcare Service/input_username'
+
+2018-07-26 13:19:32 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Jenkins/Page_CURA Healthcare Service/input_username'
+
+2018-07-26 13:19:32 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Jenkins/Page_CURA Healthcare Service/input_password'
+
+2018-07-26 13:19:32 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Jenkins/Page_CURA Healthcare Service/input_password'
+
+2018-07-26 13:19:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Jenkins/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-26 13:19:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Jenkins/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-26 13:19:33 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-26 13:19:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-26 13:19:07 - [TEST_SUITE][PASSED] - Jenkin -test: Test Cases/Day 3/Jenkins -Test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

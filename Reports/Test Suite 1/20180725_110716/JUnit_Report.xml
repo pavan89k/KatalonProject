@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite 1" time="61" tests="2" failures="0" errors="0">
+   <testsuite name="Test Suite 1" tests="2" failures="0" errors="0" time="61" timestamp="2018-07-25 11:08:14" hostname="slk - WSLK1FFTRFW-15" id="Test Suites/Test Suite 1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1FFTRFW-15.005\\Katalon Studio\\Demo_SLK\\Reports\\Test Suite 1\\20180725_110716"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1FFTRFW-15.005\\Katalon Studio\\Demo_SLK\\Reports\\Test Suite 1\\20180725_110716\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-15"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 60.0"/>
+         <property name="hostAddress" value="10.10.10.24"/>
+         <property name="sessionId" value="4ac64b9b-b4b3-4bf4-a3d5-7a9136215c85"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Login -Day 1/Test 1-Recording" classname="Test Cases/Login -Day 1/Test 1-Recording" status="PASSED">
+         <system-out><![CDATA[2018-07-25 11:08:15 - [TEST_CASE][PASSED] - Test Cases/Login -Day 1/Test 1-Recording: Test Cases/Login -Day 1/Test 1-Recording
+
+2018-07-25 11:08:15 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 11:08:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 11:08:43 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-25 11:08:44 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-25 11:08:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginObjects/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-25 11:08:45 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginObjects/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-25 11:08:45 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/LoginObjects/Page_CURA Healthcare Service/input_username'
+
+2018-07-25 11:08:45 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/LoginObjects/Page_CURA Healthcare Service/input_username'
+
+2018-07-25 11:08:45 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/LoginObjects/Page_CURA Healthcare Service/input_password'
+
+2018-07-25 11:08:46 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/LoginObjects/Page_CURA Healthcare Service/input_password'
+
+2018-07-25 11:08:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginObjects/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-25 11:08:47 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginObjects/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-25 11:08:47 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 11:08:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login -Day 1/Test 2-Capturing objects" classname="Test Cases/Login -Day 1/Test 2-Capturing objects" status="PASSED">
+         <system-out><![CDATA[2018-07-25 11:08:47 - [TEST_CASE][PASSED] - Test Cases/Login -Day 1/Test 2-Capturing objects: Test Cases/Login -Day 1/Test 2-Capturing objects
+
+2018-07-25 11:08:47 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-25 11:09:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-25 11:09:12 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-25 11:09:14 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-07-25 11:09:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Test 2/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-25 11:09:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Test 2/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-07-25 11:09:14 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Test 2/Page_CURA Healthcare Service/input_username'
+
+2018-07-25 11:09:14 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Test 2/Page_CURA Healthcare Service/input_username'
+
+2018-07-25 11:09:14 - [TEST_STEP][PASSED] - setText: Text 'ThisIsNotAPassword' is set on object 'Object Repository/Test 2/Page_CURA Healthcare Service/input_password'
+
+2018-07-25 11:09:14 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Test 2/Page_CURA Healthcare Service/input_password'
+
+2018-07-25 11:09:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/LoginObjects/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-25 11:09:15 - [MESSAGE][PASSED] - Object: 'Object Repository/LoginObjects/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-07-25 11:09:15 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-25 11:09:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-25 11:08:14 - [TEST_SUITE][PASSED] - Test Suite 1: Test Cases/Login -Day 1/Test 2-Capturing objects]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

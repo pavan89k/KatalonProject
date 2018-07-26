@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite 1,Firefox 60.0,,2018-07-25 11:08:14,2018-07-25 11:09:16,1m - 1.141s,PASSED
+,,,,,,
+Test Cases/Login -Day 1/Test 1-Recording,Firefox 60.0,abcd,2018-07-25 11:08:15,2018-07-25 11:08:47,32.103s,PASSED
+openBrowser,Firefox 60.0,,2018-07-25 11:08:15,2018-07-25 11:08:43,27.853s,PASSED
+navigateToUrl,Firefox 60.0,,2018-07-25 11:08:43,2018-07-25 11:08:44,1.641s,PASSED
+click,Firefox 60.0,,2018-07-25 11:08:44,2018-07-25 11:08:45,0.842s,PASSED
+setText,Firefox 60.0,,2018-07-25 11:08:45,2018-07-25 11:08:45,0.065s,PASSED
+setEncryptedText,Firefox 60.0,,2018-07-25 11:08:45,2018-07-25 11:08:46,0.255s,PASSED
+click,Firefox 60.0,,2018-07-25 11:08:46,2018-07-25 11:08:47,0.957s,PASSED
+closeBrowser,Firefox 60.0,,2018-07-25 11:08:47,2018-07-25 11:08:47,0.249s,PASSED
+,,,,,,
+Test Cases/Login -Day 1/Test 2-Capturing objects,Firefox 60.0,,2018-07-25 11:08:47,2018-07-25 11:09:16,28.777s,PASSED
+openBrowser,Firefox 60.0,,2018-07-25 11:08:47,2018-07-25 11:09:12,24.895s,PASSED
+navigateToUrl,Firefox 60.0,,2018-07-25 11:09:12,2018-07-25 11:09:14,1.771s,PASSED
+click,Firefox 60.0,,2018-07-25 11:09:14,2018-07-25 11:09:14,0.574s,PASSED
+setText,Firefox 60.0,,2018-07-25 11:09:14,2018-07-25 11:09:14,0.055s,PASSED
+setText,Firefox 60.0,,2018-07-25 11:09:14,2018-07-25 11:09:14,0.059s,PASSED
+click,Firefox 60.0,,2018-07-25 11:09:14,2018-07-25 11:09:15,1.115s,PASSED
+closeBrowser,Firefox 60.0,,2018-07-25 11:09:15,2018-07-25 11:09:16,0.220s,PASSED
